@@ -1,0 +1,9 @@
+c:\users\jeremy turney\documents\visual studio 2015\Projects\CSC670\Assignment 2(Super Calculator)\Assignment 2(Super Calculator)\bin\Debug\Assignment 2(Super Calculator).exe.config
+c:\users\jeremy turney\documents\visual studio 2015\Projects\CSC670\Assignment 2(Super Calculator)\Assignment 2(Super Calculator)\obj\Debug\Assignment 2(Super Calculator).csprojResolveAssemblyReference.cache
+c:\users\jeremy turney\documents\visual studio 2015\Projects\CSC670\Assignment 2(Super Calculator)\Assignment 2(Super Calculator)\obj\Debug\Assignment_2_Super_Calculator_.Form1.resources
+c:\users\jeremy turney\documents\visual studio 2015\Projects\CSC670\Assignment 2(Super Calculator)\Assignment 2(Super Calculator)\obj\Debug\Assignment_2_Super_Calculator_.Properties.Resources.resources
+c:\users\jeremy turney\documents\visual studio 2015\Projects\CSC670\Assignment 2(Super Calculator)\Assignment 2(Super Calculator)\obj\Debug\Assignment 2(Super Calculator).csproj.GenerateResource.Cache
+c:\users\jeremy turney\documents\visual studio 2015\Projects\CSC670\Assignment 2(Super Calculator)\Assignment 2(Super Calculator)\bin\Debug\Assignment 2(Super Calculator).exe
+c:\users\jeremy turney\documents\visual studio 2015\Projects\CSC670\Assignment 2(Super Calculator)\Assignment 2(Super Calculator)\bin\Debug\Assignment 2(Super Calculator).pdb
+c:\users\jeremy turney\documents\visual studio 2015\Projects\CSC670\Assignment 2(Super Calculator)\Assignment 2(Super Calculator)\obj\Debug\Assignment 2(Super Calculator).exe
+c:\users\jeremy turney\documents\visual studio 2015\Projects\CSC670\Assignment 2(Super Calculator)\Assignment 2(Super Calculator)\obj\Debug\Assignment 2(Super Calculator).pdb
